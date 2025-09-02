@@ -8,6 +8,13 @@
 
 ---
 
+## ⚠️ Syntax Highlighting Note
+
+> ⚠️ GitHub does not support native syntax highlighting for `.st` files (Structured Text – IEC 61131-3).  
+> ⚠️ To improve readability, Pascal highlighting is applied via a `.gitattributes` override.  
+
+---
+
 ## 🧠 Purpose
 
 `FB_FilterDebounce` is designed to filter out short-term fluctuations (spikes/bounces) in digital input signals using timer-based debounce logic.  

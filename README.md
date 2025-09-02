@@ -8,6 +8,13 @@ Designed with SIL2 principles in mind.
 
 ---
 
+## ⚠️ Syntax Highlighting Note
+
+> ⚠️ GitHub does not support native syntax highlighting for `.st` files (Structured Text – IEC 61131-3).  
+> ⚠️ To improve readability, Pascal highlighting is applied via a `.gitattributes` override.  
+
+---
+
 ## 🔧 Purpose
 
 This repository serves as a collection of lightweight, reliable, and reusable **Function Blocks (FB)**,  
