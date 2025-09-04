@@ -1,0 +1,103 @@
+########################################
+# CODESYS Project Files
+########################################
+
+# Libraries and Device Files
+*.compiled-library
+*.library*
+*.device
+*.package*
+*.target
+*.dep
+*.expat
+
+# Simulation / Runtime Artifacts
+*.bootinfo*
+*.compileinfo*
+*.precompilecache
+*.opt
+
+########################################
+# Compile / Temporary Files
+########################################
+
+*.app
+*.app.symbols
+*.app.info
+*.crc
+*.log
+*.tmp
+*.bak
+
+########################################
+# Runtime / Download Files
+########################################
+
+*.download
+*.upload
+*.trace
+*.profile
+
+########################################
+# IDE Cache
+########################################
+
+/.settings/
+/.metadata/
+/workspace/
+/.cache/
+
+########################################
+# Binary / Outputs
+########################################
+
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.so
+*.pdb
+
+########################################
+# OS Specific Files
+########################################
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+Icon?
+._*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.nfs*
+
+########################################
+# Temporary / Misc
+########################################
+
+*.swp
+*.swo
+*.old
+*.orig
+*.rej
+*.class
+*.pyc
+*.pyo
+
+########################################
+# Visual Studio Code
+########################################
+
+.vscode/
+.history/
+*.code-workspace
+*.suo
+*.user
